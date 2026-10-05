@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pregón</string>
+    <string name="tab_preguntar">Preguntar</string>
+    <string name="tab_consultas">Mis consultas</string>
+    <string name="tab_ajustes">Ajustes</string>
+    <string name="chat_header_title">Pregúntale a la ciudad</string>
+    <string name="chat_header_subtitle">Movilidad, servicios y campus UEx en tiempo real</string>
+    <string name="composer_placeholder">Escribe tu pregunta…</string>
+    <string name="action_send">Enviar</string>
+    <string name="action_convert_widget">Convertir en widget</string>
+    <string name="action_view_calculation">Cómo se ha calculado</string>
+    <string name="action_view_sources">Fuentes y procedencia</string>
+    <string name="action_recalculate">Recalcular</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_cancel">Cancelar</string>
+</resources>

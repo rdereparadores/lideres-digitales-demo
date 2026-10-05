@@ -1,0 +1,6 @@
+{
+  "name": "Pregón",
+  "description": "Asistente inteligente de movilidad y servicios urbanos de Cáceres con cálculo determinista y consultas persistentes",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
