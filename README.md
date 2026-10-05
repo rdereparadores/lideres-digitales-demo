@@ -7,10 +7,10 @@
 
 ## 📱 Capturas de la Aplicación
 
-| 1. Preguntar & Estimador de Salida | 2. Mis Consultas & Widget | 3. Ajustes & Panel de Demo |
+| 1. Preguntar & Estimador de Salida | 2. Mis Consultas (Widget Salida) | 3. Mis Consultas (Widget Campus UEx) |
 | :---: | :---: | :---: |
-| ![Chat y Estimación](./screenshots/01_chat_departure.jpg) | ![Consultas y Widget](./screenshots/02_queries_widget.jpg) | ![Ajustes y Demo](./screenshots/03_demo_settings.jpg) |
-| *Cálculo exacto de salida hacia la Escuela Politécnica con fuentes y traza audible.* | *Consultas persistentes en Room y previsualización interactiva del widget.* | *Control del reloj simulado e inyección de incidencias en tiempo real.* |
+| <img src="./screenshots/cap_1.jpg" width="260" alt="Preguntar - Estimador de salida L1 a las 8:12" /> | <img src="./screenshots/cap_2.jpg" width="260" alt="Mis Consultas - Widget Sal a las 8:12" /> | <img src="./screenshots/cap_3.jpg" width="260" alt="Mis Consultas - Widget Plazas Campus UEx" /> |
+| *Cálculo de salida a la Escuela Politécnica (Sal a las 8:12) con desglose y confianza.* | *Consulta persistente en Room con previsualización del widget en tiempo real.* | *Actualización interactiva del widget para control de plazas libres en Campus UEx.* |
 
 ---
 
