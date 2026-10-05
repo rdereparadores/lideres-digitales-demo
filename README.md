@@ -1,8 +1,4 @@
 # Pregón · Asistente Urbano de Cáceres
-
-> **Prueba de Hard Skills · Líderes Digitales Universitarios 2026**  
-> Prototipo funcional completo con comportamiento simulado determinista, sin backend externo, sin APIs de terceros y sin LLM.
-
 ---
 
 ## 📱 Capturas de la Aplicación
